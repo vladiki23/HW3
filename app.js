@@ -25,6 +25,7 @@ function updateCurrenciesTable(currencies) {
                 <td>${currency.txt}</td>
                 <td>${currency.cc}</td>
                 <td>${currency.rate}</td>
+                <td>${currency.exchangedate}</td>
             </tr>`;
     }
 
